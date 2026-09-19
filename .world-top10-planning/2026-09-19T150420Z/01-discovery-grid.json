@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "project": "통로언니루미",
+    "timestamp": "2026-09-19T15:04:21.073Z",
+    "version": "v3.3"
+  },
+  "engine_A": {
+    "domain_match": [
+      "통로 언니 루미",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "루프탑 바 예약",
+      "프라이빗 투어",
+      "로컬 트렌드"
+    ],
+    "market_size_estimate": "$10B+",
+    "core_problem_solved": "태국 하이엔드 라이프스타일 큐레이션."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "LUMII — 시술 비교·예약",
+  "short_name": "LUMII",
+  "description": "태국 메디컬 뷰티 시술 비교·예약 플랫폼",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7C3AED",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
